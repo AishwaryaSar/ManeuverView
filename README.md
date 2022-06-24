@@ -12,3 +12,8 @@ Ensure that your Mapbox downloads token is available in the Gradle.propoerties (
 For the proper functioning of this application, ensure the following are accessible
 - Mapbox Navigation SDK 
 - Mapbox Maps SDK Location Permission helper 
+
+## Sample Output
+
+https://user-images.githubusercontent.com/76870189/175489563-982672fc-c787-4526-94b6-463efe6be287.mp4
+
